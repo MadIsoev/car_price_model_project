@@ -6,4 +6,4 @@
   - Код на GitHub: "car_price_model_app.py"
   - Датасет: "Opel_data.csv"
 
-Cсылка на мой репозиторий: https://github.com/MadIsoev/car_price_model_project
+Cсылка на репозиторий: https://github.com/MadIsoev/car_price_model_project
