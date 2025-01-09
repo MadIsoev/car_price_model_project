@@ -7,3 +7,4 @@
   - Датасет: "Opel_data.csv"
 
 Cсылка на репозиторий: https://github.com/MadIsoev/car_price_model_project
+Ссылка деплоя: https://carpricemodelproject-rpetzgadk9pjrfzmzbcuah.streamlit.app
